@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="PR" tvg-id="ACSNetwork.pr",ACS Network (480p)
+#EXTINF:-1 group-title="PR" tvg-id="ACSNetwork.pr", tvg-chno="2", ACS Network (480p)
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 #EXTINF:-1 group-title="PR" tvg-id="AmericaTeVe.pr",América TeVé (1080p)
 https://live.gideo.video/americateve2/master.m3u8
